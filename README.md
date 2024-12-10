@@ -1,5 +1,5 @@
 # EphysDataAnalysis
-Analysis of Susu dataset at Economo lab BU
+Rotation data analysis for Economo lab
 
 Very basic utility functions made so far in zutils.py
 
